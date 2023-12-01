@@ -7,4 +7,4 @@ Colocar dentro una Branch los códigos de arduino ( .ino ) y los circuitos de co
 Colocar dentro una Branch la investigación grupal, vídeos y fotos del funcionamiento del proyecto (max 25mb por archivo)
 En esta tarea TODOS los integrantes debe subir el link del repositorio GIT.
 Ademas en esta tarea deben subir la Carpeta de campo INDIVIDUAL ( en .PDF )
-Se recuerda que una buena carpeta de campo tiene un aproximado de 50 hojas mínimo ( ya que lleva TODO lo realizado)
+
